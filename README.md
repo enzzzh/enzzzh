@@ -1,25 +1,33 @@
-# Hello, I'm Enzo! 👋
+# 🌟 Hello, I'm Enzo! 👋
 
-Welcome to my GitHub profile! I’m a passionate developer with a keen interest in creating innovative projects. Here’s a little bit about me and the work I've done.
+Welcome to my GitHub profile! I’m a passionate developer who loves creating innovative projects. Here’s a glimpse of my work and where you can find me online.
 
-## 🌐 Social Media
+---
 
-- [Instagram](https://www.instagram.com/enzzz.h)
-- [TikTok](https://www.tiktok.com/@enzzz.h)
+## 🌐 Connect with Me
 
-## 💻 Projects
+[![Instagram](https://img.shields.io/badge/-Instagram-E1306C?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/enzzz.h)  
+[![TikTok](https://img.shields.io/badge/-TikTok-black?style=flat&logo=Tiktok&logoColor=white)](https://www.tiktok.com/@enzzz.h)
 
-Here are some of the projects I've worked on:
+---
 
-### Project 1: [Neural Structure]
-It is a skeleton of the neural structure of an AI. (Mostly used for self driveable cars )
-### Project 2: [Free Windows 10 Activation key]
-Enjoy the full experience of Windows without paying additional prices
-### Project 3: [Free Office Activation Key]
-Enjoy the full experience of Office without paying additional prices 
-## 📫 Get in Touch
+## 💻 My Projects
 
-Feel free to reach out if you want to collaborate or just chat about tech! You can connect with me through my social media links above or email me at [enzzzha@gmail.com].
+### 🔍 [Neural Network]
+A foundational framework for the neural architecture of AI, primarily designed for applications like self-driving cars.
 
-Thanks for visiting my profile! 🚀
+### 🔑 [Free Windows 10 Activation Key]
+Unlock the full potential of Windows 10 without any extra cost. Enjoy a seamless experience!
 
+### 🔑 [Free Office Activation Key]
+Access all the features of Microsoft Office for free, enhancing your productivity without the price tag.
+
+---
+
+## 📫 Let's Collaborate!
+
+I love discussing new ideas and collaborating on projects! Feel free to reach out through my social media or email me at [enzzzha@gmail.com].
+
+---
+
+Thanks for stopping by my profile! 🚀
