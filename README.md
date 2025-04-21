@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I’m a passionate developer who loves creating in
 
 ##  Connect with Me
 
-[![Instagram](https://img.shields.io/badge/-Instagram-E1306C?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/enzzz.h)  
+[![Instagram](https://www.instagram.com/enzzz.h)  
 
 ---
 
