@@ -6,9 +6,8 @@ Welcome to my GitHub profile! I’m a passionate developer who loves creating in
 
 ##  Connect with Me
 
-[Instagram](https://www.instagram.com/enzzz.h)  
-[LinkedIn](https://www.linkedin.com/in/enzo-hakim-73b646275/)
-
+[![Instagram](https://img.shields.io/badge/Instagram-@enzzz.h-red)](https://www.instagram.com/enzzz.h)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Enzo%20Hakim-blue)](https://www.linkedin.com/in/enzo-hakim-73b646275/)
 ---
 
 ##  My Projects
