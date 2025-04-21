@@ -3,6 +3,11 @@
 Welcome to my GitHub profile! I’m a passionate developer who loves creating innovative projects. Here’s a glimpse of my work and where you can find me online.
 
 ---
+## Trophies 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=enzzzh&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
 
 ##  Connect with Me
 
