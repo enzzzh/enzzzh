@@ -40,7 +40,6 @@ Welcome to my GitHub profile! I’m a passionate developer who loves creating in
 ### 🧠 [Neural Network](https://github.com/enzzzh/NeuralNetwork)
 A foundational framework for the neural architecture of AI, primarily designed for applications like self-driving cars.
 
-![Neural Network Screenshot](https://link-to-your-screenshot.com/screenshot.png)
 
 ---
 
