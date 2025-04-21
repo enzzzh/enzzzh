@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I’m a passionate developer who loves creating in
 
 ##  Connect with Me
 
-[![Instagram](https://www.instagram.com/enzzz.h)  
+[Instagram](https://www.instagram.com/enzzz.h)  
 
 ---
 
