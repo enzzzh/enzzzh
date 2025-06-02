@@ -1,4 +1,4 @@
-# 🌟 Hello, I'm Enzo! 👋
+#  Hello, I'm Enzo! 
 
 Welcome to my GitHub profile! I’m a passionate developer who loves creating innovative projects. Here’s a glimpse of my work and where you can find me online.
 
@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I’m a passionate developer who loves creating in
 
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen) ![License](https://img.shields.io/badge/license-MIT-blue) ![Version](https://img.shields.io/badge/version-1.0.0-orange)
 
-## 📫 Connect with Me
+##  Connect with Me
 
 <p align="center">
   <a href="https://www.instagram.com/enzzz.h" target="_blank">
@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I’m a passionate developer who loves creating in
 
 ---
 
-## 📊 My GitHub Stats
+## My GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=enzzzh&show_icons=true&theme=radical" alt="Enzo's GitHub Stats" />
@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I’m a passionate developer who loves creating in
 
 ---
 
-## 🏆 Achievements
+##  Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=enzzzh&theme=onedark" alt="Achievements" />
@@ -35,43 +35,45 @@ Welcome to my GitHub profile! I’m a passionate developer who loves creating in
 
 ---
 
-## 📚 My Projects
+##  My Projects
 
-### 🧠 [Neural Network](https://github.com/enzzzh/NeuralNetwork)
+###  [Neural Network](https://github.com/enzzzh/NeuralNetwork)
 A foundational framework for the neural architecture of AI, primarily designed for applications like self-driving cars.
 
 
 ---
 
-### 💻 [Free Windows 10 Activation Key](https://github.com/enzzzh/FreeWinActivKey)
+###  [Free Windows 10 Activation Key](https://github.com/enzzzh/FreeWinActivKey)
 Unlock the full potential of Windows 10 without any extra cost. Enjoy a seamless experience!
 
 ---
 
-### 📊 [Free Office Activation Key](https://github.com/enzzzh/FreeOfficeActivKey)
+###  [Free Office Activation Key](https://github.com/enzzzh/FreeOfficeActivKey)
 Access all the features of Microsoft Office for free, enhancing your productivity without the price tag.
 
 ---
 
-### 🌐 [My Website](https://enzzzh.github.io)
+###  [My Website](https://enzzzh.github.io)
 My website summarizes everything about me and gives you a better introduction to me.
 
 ---
 
-### 🧮 [Calculator](https://github.com/enzzzh/Calculator)
+###  [Calculator](https://github.com/enzzzh/Calculator)
 A simple terminal-based Calculator app.
 
 ---
 
-## 🤝 Let's Collaborate!
+### [Enneper's MinimalSurface](https://github.com/enzzzh/Enneper-Surface-)
+This project is for testing my knowlege in C++ 3D rendering (Made using glut OpenGL)
+##  Let's Collaborate!
 
 I love discussing new ideas and collaborating on projects! Feel free to reach out through my social media or email me at [enzohakim2008@gmail.com].
 
----
+--- 
 
-## 📄 License
+##  License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ---
 
-Thanks for stopping by my profile! 🌟
+Thanks for stopping by my profile! 
