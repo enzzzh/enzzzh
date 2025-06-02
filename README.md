@@ -63,7 +63,7 @@ A simple terminal-based Calculator app.
 
 ---
 
-### [Enneper's MinimalSurface](https://github.com/enzzzh/Enneper-Surface-)
+### [Enneper's MinimalSurface](https://github.com/enzzzh/Enneper-Surface)
 This project is for testing my knowlege in C++ 3D rendering (Made using glut OpenGL)
 ##  Let's Collaborate!
 
