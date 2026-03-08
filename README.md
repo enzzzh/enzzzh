@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F700FF&center=true&vCenter=true&width=435&lines=I'm+so+tired+boss...;C+is+pain;Docker+is+magic;Mutsuki+dance+is+eternal;Stay+swag;Segfault+enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F700FF&center=true&vCenter=true&width=435&lines=I'm+so+tired+boss...;Clanker+abuse+should+be+legal;C+is+pain;Docker+is+magic;Mutsuki+dance+is+eternal;Stay+swag;Segfault+enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="center">
