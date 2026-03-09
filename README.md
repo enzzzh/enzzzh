@@ -6,9 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=C+is+pain;Docker+is+magic;Stay+swag;Segfault+enthusiast;Clanker+abuse+should+be+legal" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="./mutsuki-blue-archive.gif" width="350" alt="Mutsuki Dance" />
-</p>
 
 <p align="center">
   <i>"I'm not professional, I'm just here for the vibes (and the bugs)."</i>
@@ -25,14 +22,11 @@
 - 🎮 **Vibe:** Minimalist but chaotic, just like my code.
 - 💀 **Philosophy:** If it works, don't touch it. If it doesn't work, blame the compiler.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=enzzzh&show_icons=true&theme=graphite&hide_border=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=enzzzh&layout=compact&theme=graphite&hide_border=true" height="150" alt="languages graph" />
-</p>
+
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=enzzzh&theme=graphite&no-frame=true" alt="trophies" />
-</p>
+  <img src="https://streak-stats.demolab.com/?user=enzzzh&theme=dark&hide_border=true" alt="streak stats" /> <br />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=enzzzh&theme=dark&hide_border=true" height="150" alt="stats graph" /></p>
 
 ---
 
@@ -58,6 +52,9 @@
   </a>
   <a href="https://discordapp.com/users/1345857832888696864" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
+  </a>
+  <a href="https://instagram.com/enzzz.h" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="ig logo" />
   </a>
 </div>
 
