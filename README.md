@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20my%20swag%20den&fontSize=70&animation=fadeIn&fontAlignY=35&theme=tokyonight" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=200&section=header&text=Welcome%20to%20my%20swag%20den&fontSize=70&animation=fadeIn&fontAlignY=35&theme=graphite" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F700FF&center=true&vCenter=true&width=435&lines=I'm+so+tired+boss...;Clanker+abuse+should+be+legal;C+is+pain;Docker+is+magic;Mutsuki+dance+is+eternal;Stay+swag;Segfault+enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=C+is+pain;Docker+is+magic;Stay+swag;Segfault+enthusiast;Clanker+abuse+should+be+legal" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <i align="center">"I'm not professional, I'm just here for the vibes (and the bugs)."</i>
+  <i>"I'm not professional, I'm just here for the vibes (and the bugs)."</i>
 </p>
 
 ---
@@ -26,12 +26,12 @@
 - 💀 **Philosophy:** If it works, don't touch it. If it doesn't work, blame the compiler.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=enzzzh&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=enzzzh&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=enzzzh&show_icons=true&theme=graphite&hide_border=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=enzzzh&layout=compact&theme=graphite&hide_border=true" height="150" alt="languages graph" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=enzzzh&theme=tokyonight&no-frame=true" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=enzzzh&theme=graphite&no-frame=true" alt="trophies" />
 </p>
 
 ---
@@ -53,24 +53,21 @@
 ### 🌐 My Socials (stalk me here)
 
 <div align="center">
-  <a href="https://x.com/enzzz_h" target="_blank">
+  <a href="https://x.com/tips_spy" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo" />
   </a>
-  <a href="https://discordapp.com/users/1250827442831101973" target="_blank">
+  <a href="https://discordapp.com/users/1345857832888696864" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
-  </a>
-    <a href="https://instagram.com/enzzz.h" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="ig logo" />
   </a>
 </div>
 
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=for-the-badge" />
-  <img src="https://img.shields.io/github/last-commit/enzzzh/enzzzh?color=F700FF&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Maintained%3F-maybe-green.svg?style=for-the-badge" />
+  <img src="https://img.shields.io/github/last-commit/enzzzh/enzzzh?color=000000&style=for-the-badge" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer&theme=tokyonight" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer&theme=graphite" />
 </p>
