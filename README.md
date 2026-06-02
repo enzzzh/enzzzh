@@ -3,24 +3,23 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=C+is+pain;Docker+is+magic;Stay+swag;Segfault+enthusiast;Clanker+abuse+should+be+legal" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=C+is+made+for+torture;Docker+magic;Segfault+enthusiast;Clanker+abuse+should+be+legal;Malloc+before+you+free" alt="Typing SVG" />
 </p>
 
 
 <p align="center">
-  <i>"I'm not professional, I'm just here for the vibes (and the bugs)."</i>
+  <i>"Give me time and I will try to work on it."</i>
 </p>
 
 ---
 
-### 💫 About Me (if you care)
+###  About Me (if you care)
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=enzzzh.enzzzh&left_text=Views&color=F700FF" />
 
-- 🤖 **Status:** 404 Brain Not Found (likely debugging a pointer).
-- 🌍 **Timezone:** Living in a timezone that doesn't exist.
-- 🎮 **Vibe:** Minimalist but chaotic, just like my code.
-- 💀 **Philosophy:** If it works, don't touch it. If it doesn't work, blame the compiler.
+- **Age** : 17
+- **Time zone** : Everywhere
+- **Occupations** : Breaking my pc
 
 
 
@@ -30,7 +29,7 @@
 
 ---
 
-### 🛠️ My "Expertise" (i.e. things I googled once)
+###  My "Expertise" (i.e. things I googled once)
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -39,12 +38,12 @@
 </p>
 
 <p align="center">
-  <i>"Docker image size: 2GB. Why? Don't ask."</i>
+  <i>"Docker image size: 2GB. LGTM"</i>
 </p>
 
 ---
 
-### 🌐 My Socials (stalk me here)
+###  My Socials (stalk me here)
 
 <div align="center">
   <a href="https://x.com/tips_spy" target="_blank">
