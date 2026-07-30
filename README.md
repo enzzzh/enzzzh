@@ -43,22 +43,6 @@
 
 ---
 
-###  My Socials (stalk me here)
-
-<div align="center">
-  <a href="https://x.com/enzzz_h" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo" />
-  </a>
-  <a href="https://discordapp.com/users/1345857832888696864" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
-  </a>
-  <a href="https://instagram.com/enzzz.h" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="ig logo" />
-  </a>
-</div>
-
----
-
 <p align="center">
   <img src="https://img.shields.io/badge/Maintained%3F-maybe-green.svg?style=for-the-badge" />
   <img src="https://img.shields.io/github/last-commit/enzzzh/enzzzh?color=000000&style=for-the-badge" />
