@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFFFFF&height=200&section=header&text=Welcome&fontSize=70&animation=fadeIn&fontAlignY=35&theme=graphite" />
-</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=C+is+made+for+torture;Docker+magic;Segfault+enthusiast;Clanker+abuse+should+be+legal;Malloc+before+you+free" alt="Typing SVG" />
@@ -48,6 +45,3 @@
   <img src="https://img.shields.io/github/last-commit/enzzzh/enzzzh?color=000000&style=for-the-badge" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer&theme=graphite" />
-</p>
