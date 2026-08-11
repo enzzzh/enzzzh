@@ -4,19 +4,13 @@
 </p>
 
 
-<p align="center">
-  <i>"Give me time and I will try to work on it."</i>
-</p>
+###  About Me 
 
----
-
-###  About Me (if you care)
-
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=enzzzh.enzzzh&left_text=Views&color=F700FF" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=enzzzh.enzzzh&left_text=Views&color=F000FF" />
 
 - **Age** : 17
-- **Time zone** : Everywhere
-- **Occupations** : Breaking my pc
+- **Time zone** : idk I js stay up until 2 am or smthn
+- **Occupations** : Breaking my pc, gaming on occasion
 
 
 
@@ -26,11 +20,11 @@
 
 ---
 
-###  My "Expertise" (i.e. things I googled once)
+### I touched this once and called it a day
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,docker,js,html,css,py,bash,git,nodejs,vim" />
+    <img src="https://skillicons.dev/icons?i=c,docker,js,py,bash,git,vim" />
   </a>
 </p>
 
