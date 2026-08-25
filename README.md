@@ -6,8 +6,6 @@
 
 ###  About Me 
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=enzzzh.enzzzh&left_text=Views&color=F000FF" />
-
 - **Age** : 17
 - **Time zone** : idk I js stay up until 2 am or smthn
 - **Occupations** : Breaking my pc, gaming on occasion
