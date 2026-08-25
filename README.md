@@ -12,19 +12,13 @@
 - **Time zone** : idk I js stay up until 2 am or smthn
 - **Occupations** : Breaking my pc, gaming on occasion
 
-
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=enzzzh&theme=dark&hide_border=true" alt="streak stats" /> <br />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=enzzzh&theme=dark&hide_border=true" height="150" alt="stats graph" /></p>
-
 ---
 
 ### I touched this once and called it a day
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,docker,js,py,bash,git,vim" />
+    <img src="https://skillicons.dev/icons?i=c,docker,js,py,bash,git,vim,java,latex,linux" />
   </a>
 </p>
 
