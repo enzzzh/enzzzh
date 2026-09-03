@@ -9,6 +9,7 @@
 - **Age** : 17
 - **Time zone** : idk I js stay up until 2 am or smthn
 - **Occupations** : Breaking my pc, gaming on occasion
+- **Special talent** : Get drunk without drinking
 
 ---
 
