@@ -20,3 +20,6 @@
   <img src="https://img.shields.io/github/last-commit/enzzzh/enzzzh?color=000000&style=for-the-badge" />
 </p>
 
+#### I am not too much online on gh and gitlab cuz I self hosted my own git server :P
+
+<b>Anti microslop git server</b>
