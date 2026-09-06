@@ -1,10 +1,12 @@
 ###  About Me 
 
+#### I'M BOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOORED
+
 - **Age** : 17
-- **Time zone** : idk I js stay up until 2 am or smthn
+- **Time zone** : No problem
 - **Occupations** : Breaking my pc, pirating and making cheats for games on occasion
 - **Special talent** : Professional idiot 
-
+- **Currently doing** : Trying to fix CUDA drivers on my arch linux pc
 ---
 
 ### Things I larp about
