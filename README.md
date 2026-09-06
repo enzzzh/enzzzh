@@ -1,29 +1,17 @@
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=C+is+made+for+torture;Docker+magic;Segfault+enthusiast;Clanker+abuse+should+be+legal;Malloc+before+you+free" alt="Typing SVG" />
-</p>
-
-
 ###  About Me 
 
 - **Age** : 17
 - **Time zone** : idk I js stay up until 2 am or smthn
-- **Occupations** : Breaking my pc, gaming on occasion
-- **Special talent** : Get drunk without drinking
+- **Occupations** : Breaking my pc, pirating and making cheats for games on occasion
+- **Special talent** : Professional idiot 
 
 ---
 
-### I touched this once and called it a day
+### Things I larp about
 
-<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,docker,js,py,bash,git,vim,java,latex,linux" />
   </a>
-</p>
-
-<p align="center">
-  <i>"Docker image size: 2GB. LGTM"</i>
-</p>
 
 ---
 
