@@ -1,8 +1,8 @@
 ###  About Me 
 
-#### I'M BOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOORED
+#### I'M BOOORED
 
-- **Age** : 17
+- **Age** : 18
 - **Time zone** : No problem
 - **Occupations** : Breaking my pc, pirating and making cheats for games on occasion
 - **Special talent** : Professional idiot 
