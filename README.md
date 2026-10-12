@@ -12,7 +12,7 @@
 ### Things I larp about
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,docker,js,py,bash,git,vim,java,latex,linux" />
+    <img src="https://skillicons.dev/icons?i=c,docker,js,py,bash,vim,java,latex,linux,php" />
   </a>
 
 ---
